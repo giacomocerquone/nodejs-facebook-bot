@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-facebook-bot",
+  "version": "0.0.0",
+  "description": "Creating a simple facebook bot @italiancoders.it",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giacomocerquone/nodejs-facebook-bot.git"
+  },
+  "author": "Giacomo Cerquone <cerquone96@hotmail.it>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giacomocerquone/nodejs-facebook-bot/issues"
+  },
+  "homepage": "https://github.com/giacomocerquone/nodejs-facebook-bot#readme",
+  "dependencies": {
+    "messenger-bot": "^2.4.0"
+  }
+}
